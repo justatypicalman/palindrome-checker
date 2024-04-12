@@ -1,4 +1,7 @@
 <h1>Palindrome Checker</h1>
+<p align="center" width="100%">
+  <img src="representation.png" width="50%">
+</p>
 This is a simple web application that checks whether a given input is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
 
 <h2>Features</h2>
