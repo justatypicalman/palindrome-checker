@@ -1,1 +1,1 @@
-console.log("debugging process");
+console.log("debugging processes");
