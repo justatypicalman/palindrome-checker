@@ -9,7 +9,8 @@ body {
   flex-direction: column;
   align-items: center;
   background: #7f7f7f;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Inter',  Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
 }
 .title {
   text-align: center;
